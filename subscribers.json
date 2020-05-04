@@ -1,0 +1,22 @@
+      {
+        "subscriberId": "0001",
+        "title": "Mr",
+        "firstName": "Fred",
+        "lastName": "Flintstone",
+        "email": "fredflintstone@gmail.com",
+        "dob": "1988-04-28",
+        "phoneNumber": "07777777777",
+        "sex": "Male"
+      }
+      
+      {
+        "subscriberId": "0002",
+        "title": "Mrs",
+        "firstName": "Wilma",
+        "lastName": "Flintstone",
+        "email": "wilma@gmail.com",
+        "dob": "1990-05-28",
+        "phoneNumber": "07777777778",
+        "sex": "Female"
+      }
+      

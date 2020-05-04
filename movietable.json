@@ -1,0 +1,31 @@
+        {
+            "id": "0001",
+            "movie": "Black Widow",
+            "certificate": "15",
+            "genre": ["Action", "Fantasy", "Superhero"],
+            "subtitles": "No"
+        }
+
+        {
+            "id": "0002",
+            "movie": "Mulan",
+            "certificate": "12A",
+            "genre": ["Action", "Fantasy", "War"],
+            "subtitles": "Yes"
+        }
+
+        {
+            "id": "0003",
+            "movie": "Wonder Woman 1984",
+            "certificate": "15",
+            "genre": ["Action", "Fantasy", "Superhero"],
+            "subtitles": "Yes"
+        }
+
+        {
+            "id": "0004",
+            "movie": "The Invisible Man",
+            "certificate": "15",
+            "genre": ["Horror", "Thriller"],
+            "subtitles": "Yes"
+        }
